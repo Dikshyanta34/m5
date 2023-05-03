@@ -36,6 +36,8 @@ activity_main.xml
  android:id="@+id/btnDialPhone"
  android:layout_marginTop="54dp" />
 </RelativeLayout>
+
+
 MainActivity.java
 package nmit.mohan.com.app_sms_email_phone;
 import android.Manifest;
